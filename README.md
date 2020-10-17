@@ -12,7 +12,7 @@
 
 
 
-[LinkedIn](https://www.linkedin.com/in/kerrysmith-full-stack-developer/)
+[LinkedIn](https://www.linkedin.com/in/kerrysmith-full-stack-developer/)   ||  
 [My Portfolio](https://portfolio-kerry-smith.herokuapp.com)
 </div>
 
